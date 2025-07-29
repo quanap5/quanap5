@@ -1,4 +1,4 @@
-## 👋 Hello everyone
+## 👋 Hello Everyone
 <img src="https://github.com/quanap5/quanap5/blob/main/githubbaner.png" alt="banner">
 <br>
 
