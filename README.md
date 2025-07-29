@@ -1,10 +1,4 @@
 ## Hello everyone 👋
-
-<div align="center">
-  <p>👀 Profile Visitors</p>
-  <img src="https://profile-counter.glitch.me/quanap5/count.svg" alt="Visitor Count" />
-</div>
-
 <img src="https://github.com/quanap5/quanap5/blob/main/githubbaner.png" alt="banner">
 
 <!--
