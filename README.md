@@ -17,6 +17,16 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html" />
+</p>
+
+<hr>
+
 <!--
 **quanap5/quanap5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
