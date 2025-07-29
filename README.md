@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<br>
+<hr>
 
 ## 🛠️ Languages and Tools
 
