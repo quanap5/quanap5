@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/quanap5/count.svg" alt="Visitor Count" />
 </div>
 
+<img src="[https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png](https://github.com/quanap5/quanap5/blob/main/githubbaner.png)" alt="Banner of a developer sitting in front of a desk">
+
 <!--
 **quanap5/quanap5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
