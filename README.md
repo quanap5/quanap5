@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello everyone 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/quanap5/count.svg" alt="Visitor's Count" />
+<div align="center">
+  <p>👀 Profile Visitors</p>
+  <img src="https://profile-counter.glitch.me/quanap5/count.svg" alt="Visitor Count" />
 </div>
 
 <!--
